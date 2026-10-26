@@ -5,7 +5,7 @@
 ## Файлы
 | Файл | Что внутри |
 |---|---|
-| `DEUTSCH_FEED_Missing_Positions_ALL_v3.xlsm` | **18 SKU** в строках 7-24, все самостоятельные (без парентов): 8 мыл, SPF, чёрный тмин, гидролат ладана, 5 кремов/лосьонов (в т.ч. неактивный на UK `N4-FRNJ-Q53V`), Haaröl, Haarspülung |
+| `DE_FEED_UPLOAD_18SKU.xlsm` | **18 SKU** в строках 7-24, все самостоятельные (без парентов): 8 мыл, SPF, чёрный тмин, гидролат ладана, 5 кремов/лосьонов (в т.ч. неактивный на UK `N4-FRNJ-Q53V`), Haaröl, Haarspülung |
 | `DEUTSCH_FEED_HOLD_Rucolasamenoel_H3-5FMC-FAD4.xlsm` | `H3-5FMC-FAD4` отдельным файлом, **не грузить без допуска** (см. ниже) |
 | `DE_SEO_Texte_Missing_Positions.xlsx` | Все тексты со счётчиками, INCI и весом из ТТХ, статусы 24 SKU |
 
