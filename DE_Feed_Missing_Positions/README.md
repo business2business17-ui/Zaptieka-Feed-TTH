@@ -14,3 +14,6 @@
 
 ## Проверки
 Dry run 0 FAIL, patch + workbook guard PASS, все обязательные поля заполнены, все значения-списки совпадают со списками шаблона. Заявления уровня «Stufe 1» из ТТХ (лечебные, запрещённые) в тексты не перенесены. Объёмы поиска Cerebro/Helium 10 по новым товарам не сверялись. Загрузку в Amazon не проверял.
+
+## Обновление после первой загрузки (валидатор Amazon показал 3-5 незаполненных атрибутов на SKU)
+Добавлены условно обязательные поля: Farbe + Farbzuordnung, Größe, Ist der Artikel wärmeempfindlich (Nein), Kurze Produktbeschreibung, Bestimmte Nutzungsmöglichkeiten, Netzstecker (Kein Stecker, только мыло), Listenpreis mit Steuern (= цена продажи), Beschreibung des flüssigen Inhalts (жидкости), Wasserfestigkeitsgrenze (SPF), Artikelgewicht, размеры товара и пакета (ТТХ/UK), Hauptmaterial EPR, GPSR-Bescheinigung, Batterien enthalten, Altersbeschränkung. Если после загрузки останутся красные поля, пришлите скриншот или Processing Report.
