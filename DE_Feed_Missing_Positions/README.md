@@ -3,7 +3,7 @@
 **Файл для загрузки:** `DE_FEED_UPLOAD_19SKU.xlsm` (шаблон `DEUTSCH SKIN_CLEANING_AGENT_SUNSCREEN_EDIBLE_OIL_VEGETABLE_ASTRINGENT_SUBSTANCE_SKIN_MOISTURIZER.xlsm`, строки 7-25, все SKU самостоятельные).
 Тексты, INCI, вес, статусы: `DE_SEO_Texte_Missing_Positions.xlsx` (цены на листе «Übersicht» пересчитаны по 1.19).
 
-Параметры (решение владельца): цена EUR = цена UK в GBP × 1.19; количество по 2; сертификаты загружаются отдельно в Account Health. Операция «Erstellen oder Ersetzen (Vollständige Aktualisierung)», ASIN как у живых DE-листингов. ТТХ из Google-таблицы (лист `UK`).
+Параметры (решение владельца): цена EUR = цена UK в GBP × 1.19; количество по 2; сертификаты загружаются отдельно в Account Health. Операция «Erstellen oder Ersetzen (Vollständige Aktualisierung)», идентификатор товара: EAN (GTIN из ТТХ). ТТХ из Google-таблицы (лист `UK`).
 
 ## Что учесть
 - **`H3-5FMC-FAD4`, `GO-HRO6-WM8V` (масла)**: пищевые, нужны сертификаты/анализ и этикетка по LMIV (Nährwerttabelle, MHD, ответственный в ЕС). Для рукколы в списке «Zutaten» шаблона нет значения, поле пусто; масло Eruca sativa содержит много эруковой кислоты (пределы в еде: VO (EU) 2019/1870), в Account Health нужен соответствующий анализ.
